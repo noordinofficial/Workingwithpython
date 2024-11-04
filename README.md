@@ -37,14 +37,14 @@ understand and practice Python programming essentials.
    git clone https://github.com/noordinofficial/workingwithpython.git
 
 **2.Navigate into the project directory**
-cd workingwithpython
+    cd workingwithpython
 
 **3.(Optional) Create and activate a virtual environment**
-python3 -m venv env
+   python3 -m venv env
 
 source env/bin/activate **On Windows, use `env\Scripts\activate`**
 **Install dependencies (if any)**
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 **4.Usage**
 
