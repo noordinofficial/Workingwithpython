@@ -43,23 +43,23 @@ understand and practice Python programming essentials.
    python3 -m venv env
 
 source env/bin/activate **On Windows, use `env\Scripts\activate`**
-**Install dependencies (if any)**
+**4.Install dependencies (if any)**
    pip install -r requirements.txt
 
-**4.Usage**
+**5.Usage**
 
 Run each script individually to see different programming concepts in action. For example, to run the SimpleCalculator.py file:
 python SimpleCalculator.py
 Each file is self-contained, allowing you to focus on specific topics without dependencies.
 
-**5.Contributing**
+**6.Contributing**
 
 Contributions are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
 
-**6.License**
+**7.License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**7.Acknowledgements**
+**8.Acknowledgements**
 Python documentation and tutorials for reference on various programming concepts.
 Special thanks to those who provided guidance and resources along the way.
