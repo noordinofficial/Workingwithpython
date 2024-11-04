@@ -34,7 +34,7 @@ understand and practice Python programming essentials.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/noordinofficial/workingwithpython.git
+   git clone https://github.com/noordinofficial/Workingwithpython.git
 
 **2.Navigate into the project directory**
     cd workingwithpython
